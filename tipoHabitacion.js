@@ -1,0 +1,5 @@
+class TipoHabitacion {
+    constructor() {
+        
+    }
+}
